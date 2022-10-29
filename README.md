@@ -26,6 +26,9 @@ Este fará que a voltaxe medida co multímetro esté dividida por 100 e así pod
 ![022](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/022.jpg?raw=true)
 ![023](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/023.png?raw=true)
 
+Xunto cunha raspberry e empregando un modem 5G para a conectividade. Contrólase o estado da placa solar e transmisión de vídeo por seguridade e ver que todo funciona correctamente.
+![025](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/025.png?raw=true)
+
 # Imaxes
 
 ![001](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/001.jpeg?raw=true)
