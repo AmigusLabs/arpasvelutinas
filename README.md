@@ -29,4 +29,4 @@ Debido ós ataques da avispa velutina ás colmenas de abella, trátase de fabric
 ![021](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/021.jpg?raw=true)
 ![022](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/022.jpg?raw=true)
 ![023](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/023.png?raw=true)
-![024](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/024.png?raw=true)
+![024](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/024.jpg?raw=true)
