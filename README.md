@@ -4,6 +4,7 @@ Arpas eléctricas para combatir avispa asiática
 Debido ós ataques da avispa velutina ás colmenas de abella, trátase de fabricar arpas eléctricas de maneira que se afasten as velutinas.
 
 Trátase dun esquema sinxelo que se trata de mostrar nesta imaxe:
+
 ![024](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/024.jpg?raw=true)
 
 A potencia dunha placa solar xunto con un multiplicador de tensión e faise pasar polos fíos da arpa.
@@ -18,15 +19,18 @@ O regulador de tensión emprégase para estabilizar a corriente e regular a tens
 
 Para o paso do arame das arpas emprégase fibra de vidrio xa que aisla o circuito e evita cortocircuitos.
 Empregando madeira esta pódese queimar.
+
 ![017](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/017.jpg?raw=true)
 
 
 Para poder medir a alta voltaxe da saída cun multimetro corrente fabrícase un divisor de tensión según o seguinte esquema.
 Este fará que a voltaxe medida co multímetro esté dividida por 100 e así poder medir os 2500v dando un resultado de 25v no multímetro.
+
 ![022](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/022.jpg?raw=true)
 ![023](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/023.png?raw=true)
 
 Xunto cunha raspberry e empregando un modem 5G para a conectividade. Contrólase o estado da placa solar e transmisión de vídeo por seguridade e ver que todo funciona correctamente.
+
 ![025](https://github.com/AmigusLabs/arpasvelutinas/blob/main/imaxes/025.jpg?raw=true)
 
 Proxecto patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
